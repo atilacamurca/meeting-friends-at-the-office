@@ -1,0 +1,23 @@
+{
+  "name": "metting-friends-at-the-office",
+  "version": "1.0.0",
+  "description": "Book with Friends references in The Office.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "Friends",
+    "The Office",
+    "book"
+  ],
+  "author": "Átila Camurça <camurca.home@gmail.com>",
+  "private": true,
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.0",
+    "@vuepress/plugin-pwa": "^1.0.0-alpha.0",
+    "vuepress": "^1.0.0-alpha.35"
+  }
+}
