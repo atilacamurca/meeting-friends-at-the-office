@@ -19,3 +19,9 @@ similarities with The Office.
 # Seasons
 
 [Season 1](./season-1.md)
+
+# References
+
+- <https://friends.fandom.com/wiki/Friends_Wiki>
+- <https://theoffice.fandom.com/wiki/Main_Page>
+- <http://officequotes.net/index.php>

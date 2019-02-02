@@ -6,6 +6,9 @@ set -e
 # build
 npm run docs:build
 
+# optimize images in-place
+npm run imagemin
+
 # navigate into the build output directory
 cd docs/.vuepress/dist
 

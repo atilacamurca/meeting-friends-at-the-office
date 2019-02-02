@@ -80,7 +80,7 @@ The Office: Daryl mentions a Zoo in Scranton. **check if it's the same.
 ## S01E22
 
 Friends: To alert about Carol's labor time, Ross got a beeper and the dial number is 55-JIMBO.
-The Office: Micheal sometimes calls Jim by the name **apelido "Jimbo". 
+The Office: Micheal sometimes calls Jim by the name **apelido "Jimbo".
 
 Friends: Chandler, that recently becomes a boss, it's not inveted to a party
 throw by his employees. He goes to the party anyway.
@@ -97,6 +97,8 @@ Friends: On their way to the hospital, Susan and Carol stop by the gift shop to 
 a stuff animal and "chunky" bar.
 The Office: At the Art Show, Micheal appears at the last minute and confort Pam,
 who hugs him and notice something in his pocket. He said it's a "chunky".
+
+---
 
 ## S02E06
 
