@@ -25,6 +25,9 @@ The Office: Pam left a lipstick in her laundry machine and stain a towel.
 Friends: Angela eats his chicken wings like a squirl.
 The Office: Angela eats his peanuts** like a squirl and Kevin tries to mock her way of eat.
 
+Friends: Rachel kisses Ross in an uncompromise way.
+The Office: Pam kisses Jim at the Dundies in a similar maner.
+
 ## S01E06
 
 Friends: Joey performs in a musical play called "Freud!".
@@ -53,6 +56,56 @@ This is recurrent in both shows.
 
 - It's Rachel's favorite movie.
 - Andy does an impression os Bernie's and mention to Erin, who has never seen the movie.
+
+## S01E15
+
+Friends: Chandler says to Mrs. Tedlock that he has nothing to do with pranks in the office,
+inspite his toys shown.
+The Office: Jim is known to constantly prank Dwight.
+
+## S01E16
+
+Friends: Chandler puts a trophy in his desk to impress Nina.
+The Office: Micheal hosts the Dundies, where he gives trophies to all his employees,
+including himself.
+
+Friends: Chandler has trouble to fire Nina, and ends up asking her out.
+The Office: Micheal has trouble to fire Creed, and ends up firing Devon.
+
+## S01E21
+
+Friends: In a attempt to put Marcel into a Zoo, Ross mentions he din't get into Scranton Zoo.
+The Office: Daryl mentions a Zoo in Scranton. **check if it's the same.
+
+## S01E22
+
+Friends: To alert about Carol's labor time, Ross got a beeper and the dial number is 55-JIMBO.
+The Office: Micheal sometimes calls Jim by the name **apelido "Jimbo". 
+
+Friends: Chandler, that recently becomes a boss, it's not inveted to a party
+throw by his employees. He goes to the party anyway.
+The Office: Jim throws a barbecue and invite everybody except Micheal. Who drop by
+after his Improv Class.
+
+Friends: Chandler sings "Ebony and Ivory" on the **Karaoke machine with Tracy, one of his employees.
+The Office: Micheal tries to sing (**name of the song) with every female employee
+on the Karaoke machine, but ends up singing with Jim.
+
+## S01E23
+
+Friends: On their way to the hospital, Susan and Carol stop by the gift shop to by
+a stuff animal and "chunky" bar.
+The Office: At the Art Show, Micheal appears at the last minute and confort Pam,
+who hugs him and notice something in his pocket. He said it's a "chunky".
+
+## S02E06
+
+Friends: Stephanie Schiffer, the professional guitar player, plays "Angel of the Morning".
+The Office: Micheal makes a parady with "Angel of the Morning" with Jan's last name:
+"Just call me Levinson in the morning, baby".
+
+Friends: ** plays the recepcionist of the Department of Human Resources.
+In The Office he plays Hank, the "african american guy" **Jim.
 
 ## S02E21
 
