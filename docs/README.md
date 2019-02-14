@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 ![Metting Friends at The Office](./img/logo.svg)
 
 # Welcome to Metting Friends at The Office.
@@ -18,7 +22,8 @@ similarities with The Office.
 
 # Seasons
 
-[Season 1](./season-1.md)
+- [Season 1](./season-1.md)
+- [Season 2](./season-2.md)
 
 # References
 

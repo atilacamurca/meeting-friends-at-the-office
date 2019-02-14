@@ -8,5 +8,8 @@ module.exports = {
             updatePopup: true
         }],
         ['@vuepress/medium-zoom', true]
-    ]
+    ],
+    themeConfig: {
+        sidebar: 'auto'
+    }
 }

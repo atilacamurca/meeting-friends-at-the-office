@@ -80,7 +80,7 @@ The Office: Daryl mentions a Zoo in Scranton. **check if it's the same.
 ## S01E22
 
 Friends: To alert about Carol's labor time, Ross got a beeper and the dial number is 55-JIMBO.
-The Office: Micheal sometimes calls Jim by the name **apelido "Jimbo".
+The Office: Micheal sometimes calls Jim by the name **apelido "Jimbo". 
 
 Friends: Chandler, that recently becomes a boss, it's not inveted to a party
 throw by his employees. He goes to the party anyway.
@@ -98,8 +98,6 @@ a stuff animal and "chunky" bar.
 The Office: At the Art Show, Micheal appears at the last minute and confort Pam,
 who hugs him and notice something in his pocket. He said it's a "chunky".
 
----
-
 ## S02E06
 
 Friends: Stephanie Schiffer, the professional guitar player, plays "Angel of the Morning".
@@ -108,6 +106,64 @@ The Office: Micheal makes a parady with "Angel of the Morning" with Jan's last n
 
 Friends: ** plays the recepcionist of the Department of Human Resources.
 In The Office he plays Hank, the "african american guy" **Jim.
+
+## S02E12
+
+Chandler jokes about "leaving monking **raisens (ver em ingles) in the hat"
+of his boss, as Marcel used to do it.
+
+**The Office**
+
+Packer left a "package" in the middle of Micheal's office, his boss.
+
+---
+
+Dan Castellaneta plays The Zoo Keeper and the Manager of ** in The Office.
+
+---
+
+The gang visits Marcel in a movie set and sing its favorite song
+The Lion Sleeps Tonight**, from The Lion King.
+
+**The Office**
+
+To cheer up Andy, Jim sings The Lion Sleeps Tonight** and is follow up by Andy.
+
+## S02E13
+
+Phoebe succeded to stop a fight between Rachel and Monica and says: "If we were in prison,
+you guys would be like my bitches".
+
+**The Office** [S03E09 - The Convict]()
+
+Prison Mike explains that in prison everyone is somebody elses bitches.
+
+## S02E14
+
+While their watching the video tape where Monica and Rachel goes to their prom,
+Ross apears on the screen and Joey says: "Looking good Mr. Cateau!"**
+
+**The Office** [S02E09 - Email Surveillance]()
+
+To get picked to play in the Improv Class, Micheal says: "Uh, uh! Mr. Cateau."**
+
+## S02E15
+
+Tom Seleck appears in several episodes, starting with this one. He is known by his
+mustache.
+
+**The Office**
+
+When Pete appears with a mustache for Movember, he says: "Ok, calm down.
+It's just me, not Tom Seleck".
+
+## S02E20
+
+To be more like Richard, Chandler grows a mustache.
+
+**The Office**
+
+Micheal grows a goat tea** after seeing Ryan with one.
 
 ## S02E21
 
@@ -338,7 +394,7 @@ Friends: Ross and Chandler's band is called "Way. No Way".
 The Office: At their sail boat, Andy's brother found a guitar and Andy shout:
 "No way!", and his brother replies "Way!".
 
-Friends: Tom Seleck participtate in several episodes.
+[ok] Friends: Tom Seleck participtate in several episodes.
 The Office: When Pete appears with a mustache for Movember, he says: "Ok, calm down.
 It's just me, not Tom Seleck".
 

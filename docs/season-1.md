@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Season 1
 
 Season 1 of Friends aired from September 22, 1994 to May 18, 1995 on NBC in the US.
@@ -27,7 +23,7 @@ because he unbuttom his shirt and shows his hairy chest.
 
 [Beth Grant](https://friends.fandom.com/wiki/Beth_Grant)
 plays [Lizzy](https://friends.fandom.com/wiki/Lizzy)
-in Friends and Dwight's babysitter in The Office
+on Friends and Dwight's babysitter on The Office
 ([S04E13 - Dinner Party](https://theoffice.fandom.com/wiki/Dinner_Party)).
 
 ![S01E03-03](./img/friends/S01E03-03.png)
