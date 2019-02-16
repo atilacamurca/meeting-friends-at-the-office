@@ -80,7 +80,7 @@ The Office: Daryl mentions a Zoo in Scranton. **check if it's the same.
 ## S01E22
 
 Friends: To alert about Carol's labor time, Ross got a beeper and the dial number is 55-JIMBO.
-The Office: Micheal sometimes calls Jim by the name **apelido "Jimbo". 
+The Office: Micheal sometimes calls Jim by the name **apelido "Jimbo".
 
 Friends: Chandler, that recently becomes a boss, it's not inveted to a party
 throw by his employees. He goes to the party anyway.
@@ -163,7 +163,7 @@ To be more like Richard, Chandler grows a mustache.
 
 **The Office**
 
-Micheal grows a goat tea** after seeing Ryan with one.
+Micheal grows a goatee after seeing Ryan with one.
 
 ## S02E21
 
@@ -176,7 +176,7 @@ Friends: Monica always plan parties in commites
 The Office: (PPC - Party Planning Commitee)
 
 Friends: Chandler and Joey play volleyball
-The Office: Team branches play volleyball at DM convention
+The Office S05E28 - Company Picnic: Team branches play volleyball at DM convention
 
 Friends: Chandler talks about how his parents tried to confort him by calling
 him Cheif, Sports, Champ, Governor.

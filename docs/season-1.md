@@ -17,7 +17,7 @@ a great David Hasselholff impression.
 [Micheal](https://theoffice.fandom.com/wiki/Michael_Scott) calling him Hasselholff,
 because he unbuttom his shirt and shows his hairy chest.
 
-![S02E15-01](./img/office/S02E15-01.jpg)
+![S02E15-01](./img/office/S02E15-01.png)
 
 ---
 
@@ -28,7 +28,7 @@ on Friends and Dwight's babysitter on The Office
 
 ![S01E03-03](./img/friends/S01E03-03.png)
 
-![S04E13-01](./img/office/S04E13-01.jpg)
+![S04E13-01](./img/office/S04E13-01.png)
 
 ---
 
@@ -40,7 +40,7 @@ Chandler has a boxing lizzard puppet at his desk.
 
 Micheal has a boxing cat puppet.
 
-![S02E09-01](./img/office/S02E09-01.jpg)
+![S02E09-01](./img/office/S02E09-01.png)
 
 ## 05 - The One With The East German Laundry Detergent
 
@@ -53,6 +53,8 @@ Ross mentions his Snuggles fabric softner to Chandler before his "date" with Rac
 Jim, while picking up presents to Kevin with Pam, put fabric softner
 in his cart, to Pam's surprise.
 
+![S02E19-01](./img/office/S02E19-01.png)
+
 ---
 
 Rachel left a red sock in an all whites laundry machine and all her clothes
@@ -64,15 +66,19 @@ turn to pink.
 
 Pam left a lipstick in her laundry machine and stain a towel.
 
+![S05E04-01](./img/office/S05E04-01.png)
+
 ---
 
-[Angela](https://friends.fandom.com/wiki/Angela_Delveccio) eats her chicken wings like a squirrel.
+[Angela](https://friends.fandom.com/wiki/Angela_Delveccio) (Delveccio) eats her chicken wings like a squirrel.
 
 ![S01E05-03](./img/friends/S01E05-03.png)
 
 **The Office** [S06E08 - Koi Pond](https://theoffice.fandom.com/wiki/Koi_Pond)
 
-Angela eats her nuts like a squirrel and Kevin tries to mock her way of eat.
+Angela (Martin) eats her nuts like a squirrel and Kevin tries to mock her way of eat.
+
+![S06E08-01](./img/office/S06E08-01.png)
 
 ---
 
@@ -84,6 +90,12 @@ Rachel kisses Ross in an uncompromised way.
 
 Pam kisses Jim at the Dundies in a similar maner.
 
+![S02E01-01](./img/office/S02E01-01.png)
+
+> Uuuhhh!!!
+
+![S02E01-02](./img/office/S02E01-02.png)
+
 ## 06 - The One With The Butt
 
 Joey performs in a musical play called [Freud!](https://friends.fandom.com/wiki/Freud!).
@@ -94,6 +106,8 @@ Joey performs in a musical play called [Freud!](https://friends.fandom.com/wiki/
 
 Andy performs in a musical play called "Sweeney Todd".
 
+![S07E03-01](./img/office/S07E03-01.png)
+
 ---
 
 Phoebe read Monica's hand.
@@ -103,6 +117,8 @@ Phoebe read Monica's hand.
 **The Office** [S02E06 - The Fight](https://theoffice.fandom.com/wiki/The_Fight)
 
 Pam read Jim's hand using instructions from a website.
+
+![S02E06-01](./img/office/S02E06-01.png)
 
 ---
 
@@ -118,6 +134,10 @@ With news of a part in a movie, Joey does an impression of Al Pacino lines:
 While stuck in characters of a game, Micheal and Dwight performs
 in a similar way.
 
+> This is not a game, this is my life.
+
+![S06E10-01](./img/office/S06E10-01.png)
+
 ## 08 - The One Where Nana Dies Twice
 
 [Shelly](https://friends.fandom.com/wiki/Shelly) tries to set up Chandler to a man,
@@ -132,6 +152,8 @@ because she thinks he's gay. Later Chandler founds out he has a "quality".
 A rumor is spread in the office about Andy being gay, and he explains
 that this was not the first time.
 
+![S06E01-01](./img/office/S06E01-01.png)
+
 ## 11 - The One With Mrs. Bing
 
 To avoid seeing his mother talking about her new book on TV, Chandler
@@ -143,12 +165,16 @@ suggest that the gang watches "Weekend at Bernie's".
 
 Kevin tells the plot of "Weekend at Bernie's" in a Grief Counseling.
 
+![S03E04-01](./img/office/S03E04-01.png)
+
 This is recurrent in both shows.
 
 - It's Rachel's favorite movie
     ([S04E12 - The One With The Embryos](https://friends.fandom.com/wiki/The_One_With_The_Embryos)).
 - Andy does an impression of Bernie's and mention to Erin, who has never seen the movie
     ([S06E10 - Murder](https://theoffice.fandom.com/wiki/Murder)).
+
+![S06E10-02](./img/office/S06E10-02.png)
 
 ## 15 - The One With The Stoned Guy
 
@@ -172,6 +198,8 @@ Chandler puts a trophy in his desk to impress Nina.
 Micheal hosts the Dundies, where he gives trophies to all his employees,
 including himself.
 
+![S02E01-03](./img/office/S02E01-03.png)
+
 ---
 
 Chandler has trouble to fire Nina, and ends up asking her out.
@@ -182,6 +210,10 @@ Chandler has trouble to fire Nina, and ends up asking her out.
 
 Micheal has trouble to fire someone from the office. He tries to fire Creed,
 and ends up firing [Devon](https://theoffice.fandom.com/wiki/Devon_White).
+
+![S02E05-01](./img/office/S02E05-01.png)
+
+![S02E05-02](./img/office/S02E05-02.png)
 
 ## 21 - The One With The Fake Monica
 
@@ -194,13 +226,17 @@ In a attempt to put Marcel into a Zoo, Ross mentions it din't get into Scranton 
 Daryl mentions a field trip to the zoo (not sure it's the Scranton Zoo),
 and hook up with a girl.
 
+![S08E15-01](./img/office/S08E15-01.png)
+
 **The Office** [S06E26 - Whistleblower](https://theoffice.fandom.com/wiki/Whistleblower)
 
 Michael wants to keep a local newsclip featuring himself as the most viewed
 video and enlists the office to watch it 11 times each.
 The office instead gets distracted by a video of a baby otter at the Scranton Zoo.
 
-## 22 - "The One With The Ick Factor
+![S06E26-01](./img/office/S06E26-01.png)
+
+## 22 - The One With The Ick Factor
 
 To alert about Carol's labor time, Ross got a beeper and the dial number is "55-JIMBO".
 
@@ -209,6 +245,8 @@ To alert about Carol's labor time, Ross got a beeper and the dial number is "55-
 **The Office** [S03E17 - Cocktails](https://theoffice.fandom.com/wiki/Cocktails)
 
 Micheal sometimes calls Jim by the nickname "Jimbo".
+
+![S03E17-01](./img/office/S03E17-01.png)
 
 ---
 
@@ -222,6 +260,8 @@ thrown by his employees. He goes to the party anyway.
 Jim throws a barbecue and invite everybody except Micheal, who drop by anyway
 after his Improv Class.
 
+![S02E09-02](./img/office/S02E09-02.png)
+
 ---
 
 Chandler sings "Ebony and Ivory" on the Karaoke machine with Tracy, one of his employees.
@@ -230,6 +270,8 @@ Chandler sings "Ebony and Ivory" on the Karaoke machine with Tracy, one of his e
 
 Micheal crashes at Jim's BBQ party and tries to sing "Islands in the Stream"
 with every female employee on the Karaoke machine, but ends up singing with Jim.
+
+![S02E09-03](./img/office/S02E09-03.png)
 
 ## 23 - The One With The Birth
 
@@ -242,3 +284,5 @@ a stuff animal and a "Chunky" bar.
 
 At the Art Show, Micheal appears at the last minute and confort Pam,
 who hugs him and notice something in his pocket. He said it's a "Chunky".
+
+![S03E16-01](./img/office/S03E16-01.png)
