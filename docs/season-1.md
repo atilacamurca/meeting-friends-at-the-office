@@ -15,7 +15,7 @@ a great David Hasselholff impression.
 
 [Lonny](https://theoffice.fandom.com/wiki/Lonny_Collins) insults
 [Micheal](https://theoffice.fandom.com/wiki/Michael_Scott) calling him Hasselholff,
-because he unbuttom his shirt and shows his hairy chest.
+because he unbutton his shirt and shows his hairy chest.
 
 ![S02E15-01](./img/office/S02E15-01.png)
 
@@ -32,7 +32,7 @@ on Friends and Dwight's babysitter on The Office
 
 ---
 
-Chandler has a boxing lizzard puppet at his desk.
+Chandler has a boxing lizard puppet at his desk.
 
 ![S01E03-04](./img/friends/S01E03-04.png)
 
@@ -44,13 +44,13 @@ Micheal has a boxing cat puppet.
 
 ## 05 - The One With The East German Laundry Detergent
 
-Ross mentions his Snuggles fabric softner to Chandler before his "date" with Rachel.
+Ross mentions his Snuggles fabric softener to Chandler before his "date" with Rachel.
 
 ![S01E05-01](./img/friends/S01E05-01.png)
 
 **The Office** [S02E19 - Michael's Birthday](https://theoffice.fandom.com/wiki/Michael%27s_Birthday)
 
-Jim, while picking up presents to Kevin with Pam, put fabric softner
+Jim, while picking up presents to Kevin with Pam, put fabric softener
 in his cart, to Pam's surprise.
 
 ![S02E19-01](./img/office/S02E19-01.png)
@@ -88,7 +88,7 @@ Rachel kisses Ross in an uncompromised way.
 
 **The Office** [S02E01 - The Dundies](https://theoffice.fandom.com/wiki/The_Dundies)
 
-Pam kisses Jim at the Dundies in a similar maner.
+Pam kisses Jim at the Dundies in a similar manner.
 
 ![S02E01-01](./img/office/S02E01-01.png)
 
@@ -122,8 +122,10 @@ Pam read Jim's hand using instructions from a website.
 
 ---
 
-With news of a part in a movie, Joey does an impression of Al Pacino lines:
-"You are out of order!".
+With news of a part in a movie, Joey does an impression of Al Pacino lines
+from the movie [...And Justice for All](https://www.imdb.com/title/tt0078718/):
+
+> You are out of order!
 
 ![S01E06-03](./img/friends/S01E06-03.png)
 
@@ -134,7 +136,15 @@ With news of a part in a movie, Joey does an impression of Al Pacino lines:
 While stuck in characters of a game, Micheal and Dwight performs
 in a similar way.
 
-> This is not a game, this is my life.
+> Michael: This is not a game, this is my life. You are out of order, sir.
+>
+> Dwight: Answer me.
+>
+> Michael: You are out of order.
+>
+> Dwight: You are out of order.
+>
+> Michael: You are-
 
 ![S06E10-01](./img/office/S06E10-01.png)
 
@@ -157,7 +167,7 @@ that this was not the first time.
 ## 11 - The One With Mrs. Bing
 
 To avoid seeing his mother talking about her new book on TV, Chandler
-suggest that the gang watches "Weekend at Bernie's".
+suggest that the gang watches [Weekend at Bernie's](https://www.imdb.com/title/tt0098627/).
 
 ![S01E11-01](./img/friends/S01E11-01.png)
 
@@ -171,7 +181,7 @@ This is recurrent in both shows.
 
 - It's Rachel's favorite movie
     ([S04E12 - The One With The Embryos](https://friends.fandom.com/wiki/The_One_With_The_Embryos)).
-- Andy does an impression of Bernie's and mention to Erin, who has never seen the movie
+- Andy does an impression of Bernie and mention the movie to Erin, who has never seen it
     ([S06E10 - Murder](https://theoffice.fandom.com/wiki/Murder)).
 
 ![S06E10-02](./img/office/S06E10-02.png)
@@ -217,7 +227,7 @@ and ends up firing [Devon](https://theoffice.fandom.com/wiki/Devon_White).
 
 ## 21 - The One With The Fake Monica
 
-In a attempt to put Marcel into a Zoo, Ross mentions it din't get into Scranton Zoo.
+In a attempt to put Marcel into a Zoo, Ross mentions it didn't get into Scranton Zoo.
 
 ![S01E21-01](./img/friends/S01E21-01.png)
 
@@ -282,7 +292,7 @@ a stuff animal and a "Chunky" bar.
 
 **The Office** [S03E16 - Business School](https://theoffice.fandom.com/wiki/Business_School)
 
-At the Art Show, Micheal appears at the last minute and confort Pam,
+At the Art Show, Micheal appears at the last minute and comfort Pam,
 who hugs him and notice something in his pocket. He said it's a "Chunky".
 
 ![S03E16-01](./img/office/S03E16-01.png)

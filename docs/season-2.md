@@ -10,8 +10,12 @@ Stephanie Schiffer, the professional guitar player, plays "Angel of the Morning"
 
 **The Office** [S03E07 - Branch Closing](https://theoffice.fandom.com/wiki/Branch_Closing)
 
-Micheal makes a parady with "Angel of the Morning" with Jan's last name:
+Micheal makes a parody with "Angel of the Morning" with Jan's last name:
 "Just call me _Levinson_ in the morning, baby".
+
+![S03E07-01](./img/office/S03E07-01.png)
+
+![S03E07-02](./img/office/S03E07-02.png)
 
 ---
 
@@ -22,6 +26,12 @@ On The Office he plays Hank, the "African-American guy" who "...sits behind the 
 
 ![S02E06-02](./img/friends/S02E06-02.png)
 
+> &#9835; Me and the blues. It's me and the blues. &#9835;
+
+Scene from [S05E05 - Crime Aid](https://theoffice.fandom.com/wiki/Crime_Aid).
+
+![S05E05-01](./img/office/S05E05-01.png)
+
 ## 12 - The One After The Superbowl, Part 1
 
 Chandler jokes about leaving "little monkey raisins in the hat"
@@ -31,6 +41,8 @@ of his boss, as Marcel used to do it.
 
 Packer left a "package" in the middle of Micheal's office, his boss.
 
+![S02E14-01](./img/office/S02E14-01.png)
+
 ---
 
 [Dan Castellaneta](https://friends.fandom.com/wiki/The_Zoo_Employee)
@@ -38,6 +50,10 @@ plays a Janitor at the Zoo on Friends and the CEO of Prestige Direct Sale
 Solutions on The Office.
 
 ![S02E12-02](./img/friends/S02E12-02.png)
+
+Scene from [S08E23 - Turf War](https://theoffice.fandom.com/wiki/Turf_War)
+
+![S08E23-01](./img/office/S08E23-01.png)
 
 ---
 
@@ -50,10 +66,13 @@ The Lion Sleeps Tonight, from The Lion King movie.
 
 To cheer up Andy, Jim sings The Lion Sleeps Tonight and is follow up by Andy.
 
+![S03E20-01](./img/office/S03E20-01.png)
+
 ## 13 - The One After The Superbowl, Part 2
 
-Phoebe succeded to stop a fight between Rachel and Monica and says: "If we were in prison,
-you guys would be like my bitches".
+Phoebe succeeded to stop a fight between Rachel and Monica and says:
+
+> If we were in prison, you guys would be like my bitches.
 
 ![S02E13-01](./img/friends/S02E13-01.png)
 
@@ -61,19 +80,31 @@ you guys would be like my bitches".
 
 Prison Mike explains that in prison you are somebody's bitch.
 
+> Don't drop the soap. Don't drop the soap.
+
+![S03E09-01](./img/office/S03E09-01.png)
+
 ## 14 - The One With The Prom Video
 
 While their watching the video tape where Monica and Rachel goes to their prom,
-Ross apears on the screen and Joey says: "Looking good, Mr. Kotter!".
+Ross appears on the screen and Joey says: "Looking good, Mr. Kotter!".
 
 ![S02E14-01](./img/friends/S02E14-01.png)
+
+> Looking good Mr. Kotter.
 
 ![S02E14-02](./img/friends/S02E14-02.png)
 
 **The Office** [S02E09 - Email Surveillance](https://theoffice.fandom.com/wiki/Email_Surveillance)
 
-To get picked to play in the Improv Class, Micheal says: "Uh, uh! Mr. Kotter... Mr. Kotter.".
-It's a imitation of the character Horshack from the 1970s television comedy _Welcome Back, Kotter_.
+To get picked to play in the Improv Class, Micheal says:
+
+> Uh, uh! Mr. Kotter... Mr. Kotter.
+
+It's a imitation of the character Horshack from the 1970s television comedy
+[Welcome Back, Kotter](https://www.imdb.com/title/tt0072582/).
+
+![S02E09-04](./img/office/S02E09-04.png)
 
 ## 15 - The One Where Ross And Rachel... You Know
 
@@ -86,8 +117,11 @@ He is known by his mustache.
 
 **The Office** [S09E07 - The Whale](https://theoffice.fandom.com/wiki/The_Whale)
 
-When Pete appears with a mustache for Movember, he says:
-"Okay, call down. It’s just me, not Tom Selleck. ".
+When Pete appears with a mustache for _Movember_, he says:
+
+> Okay, call down. It’s just me, not Tom Selleck.
+
+![S09E07-01](./img/office/S09E07-01.png)
 
 ## 20 - The One Where Old Yeller Dies
 
@@ -99,6 +133,8 @@ To be more like Richard, Chandler grows a mustache.
 
 Micheal grows a goatee after seeing Ryan with one.
 
+![S05E01-01](./img/office/S05E01-01.png)
+
 ## 21 - The One With The Bullies
 
 Monica works at a 50's restaurant, where they play "YMCA" by Village People.
@@ -107,7 +143,11 @@ Monica works at a 50's restaurant, where they play "YMCA" by Village People.
 
 **The Office** [S06E13 - Secret Santa](https://theoffice.fandom.com/wiki/Secret_Santa)
 
-Micheal's pin number is "YMCA" or 9622.
+Micheal's debit card pin number is "YMCA" or 9622.
+
+![S06E13-01](./img/office/S06E13-01.png)
+
+![S06E13-02](./img/office/S06E13-02.png)
 
 ## 22 - The One With The Two Parties
 
@@ -115,9 +155,10 @@ Monica always plan parties in committees.
 
 ![S02E22-01](./img/friends/S02E22-01.png)
 
-**The Office**
+**The Office** Throughout the series
 
-The office has an official Party Planning Commitee (PPC).
+The office has an official
+[Party Planning Committee (PPC)](https://theoffice.fandom.com/wiki/Party_Planning_Committee).
 
 ---
 
@@ -127,17 +168,59 @@ Chandler and Joey play volleyball.
 
 **The Office** [S06E28 - Company Picnic](https://theoffice.fandom.com/wiki/Company_Picnic)
 
-Team branches play volleyball at DM convention.
+Team branches play volleyball at a DM convention.
+
+![S06E28-01](./img/office/S06E28-01.png)
 
 ---
 
-Chandler talks about how his parents tried to confort him by calling
-him Chief, Sports, Champ, even Governor ...once.
+Chandler talks about how his parents tried to comfort him by calling
+him Chief, Sport, Champ, even Governor ...once.
 
 ![S02E22-03](./img/friends/S02E22-03.png)
 
 **The Office** [S04E15 - Night Out](https://theoffice.fandom.com/wiki/Night_Out) and
 [S06E26 - Whistleblower](https://theoffice.fandom.com/wiki/Whistleblower)
 
-Jim calls people Chief, Sports or Champ when doesn't know their names:
+Jim calls people Chief, Sport or Champ when he doesn't know their names:
 Hank and Nick, the IT guy.
+
+![S04E15-01](./img/office/S04E15-01.png)
+
+## 23 The One With The Chicken Pox
+
+Chandler is eating a muffin and is unable to tell his jokes,
+which could by "That's what she said" jokes.
+
+![S02E23-01](./img/friends/S02E23-01.png)
+
+**The Office** Throughout the series
+
+Michael is known for his "That's what she said" jokes, but his not the
+only one who tells as can be seen in [List of the times somebody says "That's what she said"](https://theoffice.fandom.com/wiki/List_of_the_times_somebody_says_%22That%27s_what_she_said%22)
+
+---
+
+Richard has a "Mallard" t-shirt.
+
+![S02E23-02](./img/friends/S02E23-02.png)
+
+**The Office** [S06E07 - The Lover](https://theoffice.fandom.com/wiki/The_Lover)
+
+Dwight gives Jim a wooden Mallard with a "listening device".
+
+---
+
+Chandlers naps at work.
+
+![S02E23-03](./img/friends/S02E23-03.png)
+
+**The Office** [S05E28 - Company Picnic](https://theoffice.fandom.com/wiki/Company_Picnic),
+[S06E25 - The Chump](https://theoffice.fandom.com/wiki/The_Chump) and
+[S03E03 - The Coup](https://theoffice.fandom.com/wiki/The_Coup)
+
+Michael eats a whole family size chicken pot pie, and then fall asleep.
+
+Jim and Pam also tried to sleep at work.
+
+In a deleted scene, Creed is shown sleeping at work sometimes, **at night**.
