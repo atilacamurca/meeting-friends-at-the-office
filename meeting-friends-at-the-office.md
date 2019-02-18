@@ -80,7 +80,7 @@ The Office: Daryl mentions a Zoo in Scranton. **check if it's the same.
 ## S01E22
 
 Friends: To alert about Carol's labor time, Ross got a beeper and the dial number is 55-JIMBO.
-The Office: Micheal sometimes calls Jim by the name **apelido "Jimbo".
+The Office: Micheal sometimes calls Jim by the name **apelido "Jimbo". 
 
 Friends: Chandler, that recently becomes a boss, it's not inveted to a party
 throw by his employees. He goes to the party anyway.
@@ -163,7 +163,7 @@ To be more like Richard, Chandler grows a mustache.
 
 **The Office**
 
-Micheal grows a goatee after seeing Ryan with one.
+Micheal grows a goatea** after seeing Ryan with one.
 
 ## S02E21
 
@@ -206,28 +206,31 @@ The Office: Jim and Pam wears a Popeye and Olive Oil costume for Haloween.
 ## S03E03
 
 Friends: Phoebe calls his stalker J-crew guy.
-The Office: Micheal spread a gossip that one of his employees are a J-crew model.
-
-Friends: Monica suddenly has the idea of having a baby after his "jam plan".
-The Office: Micheal, inspired by Angelina Jolie, asks Pam about adopting a baby.
+The Office: Micheal spread a gossip that one of his employees is a J-crew model.
 
 Friends: Chandler and Ross talk about space issues at sleeping time.
 The Office: Jan has space issues, and makes Micheal sleeps on a pretty narrow side bed.
 
+Friends: Monica suddenly has the idea of having a baby after his "jam plan".
+The Office: Micheal, inspired by Angelina Jolie, asks Pam about adopting a baby.
+
 ## S03E05
 
 Friends: Monica tells Phoebe about how she and Ross played the shadow game when they were kids.
-The Office: Micheal, in his anger, do the shadow game with Charles Miner.
+The Office: Micheal, in his anger, do the shadow game with Charles Miner, his new boss.
 
 ## S03E07
 
 Friends: Gunther shows that he has a crush on Rachel.
-The Office: Toby shows he has a crush on Pam.
+The Office: Toby has a crush on Pam.
 
 ## S03E12
 
 Friends: Joey is supposed to perform a dance that ends with Jazz Hands.
 The Office: Jim blackmails Dwight to **randomly do Jazz hands to Jo.
+
+Friends: Every time his in a difficult situation, Joey runs.
+The Office: Every time his in a difficult situation, Mose runs.
 
 ## S03E20
 
@@ -236,13 +239,13 @@ The Office: Micheal treats Toby even more poorly.
 
 ## S03E24
 
-Friends: Chandler keeps getting smack on the butt by his boss.
-The Office: Dwight smacks Kelly on her birthday.
+-Friends: Chandler keeps getting smack on the butt by his boss.
+-The Office: Dwight smacks Kelly on her birthday.
 
 ## S04E01
 
-Friends: Chandler found a dry sea horse on the beach.
-The Office: Gabe has collection of Japanese jars, one containing sea horse in powder.
+-Friends: Chandler found a dry sea horse on the beach.
+-The Office: Gabe has collection of Japanese jars, one containing sea horse in powder.
 
 Friends: Monica got stun from a jelly fish, and Joey suggest that she needs to pee on herself.
 The Office: Micheal talks about **his vacation, and says that he step on a nail
@@ -259,10 +262,10 @@ Micheal said `I'm sick of Chuck'e'Cheese`.
 Friends: Kathy wears a blue Varsity t-shirt.
 The Office: Micheals makes the office watch Varsity Blues every monday.
 
+## S04E06
+
 Friends: Joey shops for Kath's birthday at Office Max.
 The Office: Office Max is competitor to Dundler Mifflin.
-
-## S04E06
 
 Friends: Phoebe claims she's a hard ass after successfuly catering a funeral.
 The Office: Andy wears a Hard Ass hat.
@@ -292,6 +295,15 @@ Friends: Rachel **sings (cantarola) a music and Chandler remembers her that it c
 a porn movie.
 The Office: After Jim closes a sale, he meets Pam at the office and kisses her
 in front of Andy and Kevin, which sings a similar song.
+
+---
+
+Friends: After saying to Emily that he loves her and she doesn't say it back, Ross
+got so angry that he tried put his fist through a wall, but miss and hit the door.
+
+**The Office**
+
+After Jim and Pam prank him by hiding his phone, Andy put his fist through a wall.
 
 ## S04E21
 
