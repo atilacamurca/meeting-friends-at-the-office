@@ -307,13 +307,20 @@ After Jim and Pam prank him by hiding his phone, Andy put his fist through a wal
 
 ## S04E21
 
-Friends: Joey and Chandler are talk about renting Die Hard.
+Friends: Joey and Chandler are talk about renting Die Hard, which is their favorite movie.
 The Office: Pete tells Erin that he decorates every line of Die Hard.
+
+This is recurrent in both shows:
+
+- Ross, Joey and Chandler watch Die Hard at Ross's place.
+- Micheal compares Die Hard and Die Hard 4 with his coworkers at his Marketing job.
 
 ## S04E24
 
 Friends: Felicity asks Joey to talk New York to her and he replied: "Forget about it".
 The Office: Micheal, on his way to New York, says to the office "Forget about it".
+
+-------------------------------------------------------------------------
 
 ## S05E12
 
