@@ -12,6 +12,12 @@ Rachel wears a Popeye and Olive Oil t-shirt.
 
 Jim and Pam wears a Popeye and Olive Oil costume for Halloween.
 
+![S07E06-01](./img/office/S07E06-01.png)
+
+> My hero!
+
+![S07E06-02](./img/office/S07E06-02.png)
+
 ## 03 - The One With The Jam
 
 Phoebe calls his stalker J-crew guy.
@@ -22,6 +28,8 @@ Phoebe calls his stalker J-crew guy.
 
 Micheal spread a gossip that one of his employees is a J-crew model.
 
+![S06E01-02](./img/office/S06E01-02.png)
+
 ---
 
 Monica suddenly has the idea of having a baby after his "jam plan".
@@ -31,6 +39,8 @@ Monica suddenly has the idea of having a baby after his "jam plan".
 **The Office** [S03E02 - The Convention](https://theoffice.fandom.com/wiki/The_Convention)
 
 Micheal, inspired by Angelina Jolie, asks Pam about adopting a baby.
+
+![S03E02-01](./img/office/S03E02-01.png)
 
 ---
 
@@ -47,6 +57,12 @@ and [S04E13 - Dinner Party](https://theoffice.fandom.com/wiki/Dinner_Party)
 
 Jan has space issues, and makes Micheal sleeps on a pretty narrow side bed.
 
+![S04E01-01](./img/office/S04E01-01.png)
+
+> Jan has some space issues, so I curl up on that puppy.
+
+![S04E13-02](./img/office/S04E13-02.png)
+
 ## 05 - The One With Frank Jr.
 
 Monica tells Phoebe about how she and Ross played the shadow game when they were kids.
@@ -56,6 +72,8 @@ Monica tells Phoebe about how she and Ross played the shadow game when they were
 **The Office** [S05E20 - New Boss](https://theoffice.fandom.com/wiki/New_Boss)
 
 Micheal, in his anger, do the shadow game with Charles Miner, his new boss.
+
+![S05E20-01](./img/office/S05E20-01.png)
 
 ## 07 - The One With The Race Car Bed
 
