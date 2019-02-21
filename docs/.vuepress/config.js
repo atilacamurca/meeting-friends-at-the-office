@@ -1,6 +1,6 @@
 module.exports = {
-    base: '/metting-friends-at-the-office/',
-    title: 'Metting Friends at The Office',
+    base: '/meeting-friends-at-the-office/',
+    title: 'Meeting Friends at The Office',
     description: 'Friends references found in The Office',
     plugins: [
         ['@vuepress/pwa', {
