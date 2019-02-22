@@ -4,13 +4,13 @@
 
 Friends: Chandler mentions that Alan, the guy who Monica is seeing, that he does
 a David Hasselholff impression.
-The Office: Micheal is called Hasselholff by Lonny** because he unbuttom
+The Office: Michael is called Hasselholff by Lonny** because he unbuttom
 his shirt and shows his fur** chest.
 
 Friends: Beth Grant plays Lizzy in Friends and Dwight's baby sitter in The Office.
 
 Friends: Chandler has a punch puppet at his desk** (find the name of this puppet).
-The Office: Micheal has a punch puppet.
+The Office: Michael has a punch puppet.
 
 ## S01E05
 
@@ -37,7 +37,7 @@ Friends: Phoebe read Monica's hand.
 The Office: Pam read Jim's hand using instructions from a website.
 
 Friends: With news of a part in a movie, Joey does an impression of Al Pacino lines: "You are out of order!".
-The Office: While stuck in a character of a game, Micheal and Dwight performs
+The Office: While stuck in a character of a game, Michael and Dwight performs
 in a similar way.
 
 ## S01E08
@@ -66,11 +66,11 @@ The Office: Jim is known to constantly prank Dwight.
 ## S01E16
 
 Friends: Chandler puts a trophy in his desk to impress Nina.
-The Office: Micheal hosts the Dundies, where he gives trophies to all his employees,
+The Office: Michael hosts the Dundies, where he gives trophies to all his employees,
 including himself.
 
 Friends: Chandler has trouble to fire Nina, and ends up asking her out.
-The Office: Micheal has trouble to fire Creed, and ends up firing Devon.
+The Office: Michael has trouble to fire Creed, and ends up firing Devon.
 
 ## S01E21
 
@@ -80,28 +80,28 @@ The Office: Daryl mentions a Zoo in Scranton. **check if it's the same.
 ## S01E22
 
 Friends: To alert about Carol's labor time, Ross got a beeper and the dial number is 55-JIMBO.
-The Office: Micheal sometimes calls Jim by the name **apelido "Jimbo". 
+The Office: Michael sometimes calls Jim by the name **apelido "Jimbo".
 
 Friends: Chandler, that recently becomes a boss, it's not inveted to a party
 throw by his employees. He goes to the party anyway.
-The Office: Jim throws a barbecue and invite everybody except Micheal. Who drop by
+The Office: Jim throws a barbecue and invite everybody except Michael. Who drop by
 after his Improv Class.
 
 Friends: Chandler sings "Ebony and Ivory" on the **Karaoke machine with Tracy, one of his employees.
-The Office: Micheal tries to sing (**name of the song) with every female employee
+The Office: Michael tries to sing (**name of the song) with every female employee
 on the Karaoke machine, but ends up singing with Jim.
 
 ## S01E23
 
 Friends: On their way to the hospital, Susan and Carol stop by the gift shop to by
 a stuff animal and "chunky" bar.
-The Office: At the Art Show, Micheal appears at the last minute and confort Pam,
+The Office: At the Art Show, Michael appears at the last minute and confort Pam,
 who hugs him and notice something in his pocket. He said it's a "chunky".
 
 ## S02E06
 
 Friends: Stephanie Schiffer, the professional guitar player, plays "Angel of the Morning".
-The Office: Micheal makes a parady with "Angel of the Morning" with Jan's last name:
+The Office: Michael makes a parady with "Angel of the Morning" with Jan's last name:
 "Just call me Levinson in the morning, baby".
 
 Friends: ** plays the recepcionist of the Department of Human Resources.
@@ -114,7 +114,7 @@ of his boss, as Marcel used to do it.
 
 **The Office**
 
-Packer left a "package" in the middle of Micheal's office, his boss.
+Packer left a "package" in the middle of Michael's office, his boss.
 
 ---
 
@@ -145,7 +145,7 @@ Ross apears on the screen and Joey says: "Looking good Mr. Cateau!"**
 
 **The Office** [S02E09 - Email Surveillance]()
 
-To get picked to play in the Improv Class, Micheal says: "Uh, uh! Mr. Cateau."**
+To get picked to play in the Improv Class, Michael says: "Uh, uh! Mr. Cateau."**
 
 ## S02E15
 
@@ -163,12 +163,12 @@ To be more like Richard, Chandler grows a mustache.
 
 **The Office**
 
-Micheal grows a goatea** after seeing Ryan with one.
+Michael grows a goatea** after seeing Ryan with one.
 
 ## S02E21
 
 Friends: Monica works at a 50's restaurant, where they play WMCA
-The Office: Micheal's pin number is YMCA or 9622
+The Office: Michael's pin number is YMCA or 9622
 
 ## S02E22
 
@@ -184,7 +184,7 @@ The Office: Jim calls people Cheif, Sports or Champ when don't know their names,
 Hank and Nick the IT guy.
 
 Friends: Joey kisses Rachel's mother.
-The Office: Micheal dates Pam's mother, Helene.
+The Office: Michael dates Pam's mother, Helene.
 
 ## S02E33
 
@@ -195,7 +195,7 @@ Friends: Richard has a "Mallard" t-shirt.
 The Office: Dwight gives Jim a wooden Mallard with a "listening device".
 
 Friends: Chandlers sleeps at work.
-The Office: Micheal sleeps at work. Jim and Pam also tried to sleep at work.
+The Office: Michael sleeps at work. Jim and Pam also tried to sleep at work.
 In a deleted scene, Creed is shown sleeping (at night) at work sometimes.
 
 ## S03E01
@@ -206,18 +206,18 @@ The Office: Jim and Pam wears a Popeye and Olive Oil costume for Haloween.
 ## S03E03
 
 Friends: Phoebe calls his stalker J-crew guy.
-The Office: Micheal spread a gossip that one of his employees is a J-crew model.
+The Office: Michael spread a gossip that one of his employees is a J-crew model.
 
 Friends: Chandler and Ross talk about space issues at sleeping time.
-The Office: Jan has space issues, and makes Micheal sleeps on a pretty narrow side bed.
+The Office: Jan has space issues, and makes Michael sleeps on a pretty narrow side bed.
 
 Friends: Monica suddenly has the idea of having a baby after his "jam plan".
-The Office: Micheal, inspired by Angelina Jolie, asks Pam about adopting a baby.
+The Office: Michael, inspired by Angelina Jolie, asks Pam about adopting a baby.
 
 ## S03E05
 
 Friends: Monica tells Phoebe about how she and Ross played the shadow game when they were kids.
-The Office: Micheal, in his anger, do the shadow game with Charles Miner, his new boss.
+The Office: Michael, in his anger, do the shadow game with Charles Miner, his new boss.
 
 ## S03E07
 
@@ -235,7 +235,9 @@ The Office: Every time his in a difficult situation, Mose runs.
 ## S03E20
 
 Friends: Joana treats Sophie poorly.
-The Office: Micheal treats Toby even more poorly.
+The Office: Michael treats Toby even more poorly.
+
+Scence from [S05E09 - Frame Toby](https://theoffice.fandom.com/wiki/Frame_Toby)
 
 ## S03E24
 
@@ -248,19 +250,19 @@ The Office: Micheal treats Toby even more poorly.
 -The Office: Gabe has collection of Japanese jars, one containing sea horse in powder.
 
 Friends: Monica got stun from a jelly fish, and Joey suggest that she needs to pee on herself.
-The Office: Micheal talks about **his vacation, and says that he step on a nail
+The Office: Michael talks about **his vacation, and says that he step on a nail
 and the fact that it got infectious, even though his pee on it.
 
 ## S04E05
 
 Friends: Ross brags about his new girlfriend, Amanda, to make Rachel jelous but
 Chandler previously reveals to her that he just go out with her to Chuck'e'Cheese.
-The Office: When Dwight have a concusion, Jim drives him to the hospital with Micheal
+The Office: When Dwight have a concusion, Jim drives him to the hospital with Michael
 but when Dwight asks where they are going, Jim replies that they're going to Chuck'e'Cheese.
-Micheal said `I'm sick of Chuck'e'Cheese`.
+Michael said `I'm sick of Chuck'e'Cheese`.
 
 Friends: Kathy wears a blue Varsity t-shirt.
-The Office: Micheals makes the office watch Varsity Blues every monday.
+The Office: Michaels makes the office watch Varsity Blues every monday.
 
 ## S04E06
 
@@ -280,7 +282,7 @@ The Office: Andy asks Jim "Are you ready to party?" in a similar tone.
 
 Friends: Chandler tells Monica a story of a Director, Orlson Wells, that hires
 someone just to be fired in front of everyone, to shows who's boss.
-The Office: Dwight suggests to Micheal to fire Tony on his first day at Dundler
+The Office: Dwight suggests to Michael to fire Tony on his first day at Dundler
 Mifflin Scranton.
 
 ## S04E16
@@ -305,6 +307,18 @@ got so angry that he tried put his fist through a wall, but miss and hit the doo
 
 After Jim and Pam prank him by hiding his phone, Andy put his fist through a wall.
 
+## S04E20
+
+To cheer up, Rachel wears a weading dress. But Joshua drops by, sees her, freaks out
+and left.
+
+> I do...
+
+**The Office** [S03E02 - The Convention](https://theoffice.fandom.com/wiki/The_Convention)
+
+Michael suggests to Pam to wear her weading dress on her date, saying that it's
+going to be hilarious.
+
 ## S04E21
 
 Friends: Joey and Chandler are talk about renting Die Hard, which is their favorite movie.
@@ -313,12 +327,12 @@ The Office: Pete tells Erin that he decorates every line of Die Hard.
 This is recurrent in both shows:
 
 - Ross, Joey and Chandler watch Die Hard at Ross's place.
-- Micheal compares Die Hard and Die Hard 4 with his coworkers at his Marketing job.
+- Michael compares Die Hard and Die Hard 4 with his coworkers at his Marketing job.
 
 ## S04E24
 
 Friends: Felicity asks Joey to talk New York to her and he replied: "Forget about it".
-The Office: Micheal, on his way to New York, says to the office "Forget about it".
+The Office: Michael, on his way to New York, says to the office "Forget about it".
 
 -------------------------------------------------------------------------
 
@@ -326,32 +340,47 @@ The Office: Micheal, on his way to New York, says to the office "Forget about it
 
 Friends: Ross discover that Emily is getting maried and "punch" an english scon.
 Chandler asks if is that is what Ross learned at the anger management class.
-The Office: After a prank of Jim and Pam, Andy freak out and punch a wall. After
+The Office: Jim and Pam pranked Andy and he freak out and punch a wall. After
 that he goes to a management anger class.
 
 ## S05E20
 
 Friends: At the ride along with Gary, Ross do an impression of E.T.
-The Office: Micheal does an impression of E.T. to Holly. (** check wich episode,
-I think is the day that Micheal helps Holly with her chair.)
+The Office: Michael does an impression of E.T. to Holly. (** check wich episode,
+I think is the day that Michael helps Holly with her chair.)
+
+
+-------------------------------------------------------------------------
 
 ## S06E07
 
 Friends: Rachel complains about the way Phoebe runs, and says that she looks like
 a cross between Kermit the frog and Six Million Dollar Man.
-The Office: Micheal does an impersonation of the Six Million Dollar Man to Pam (S01E01).
+
+> Come on, that's not running. Let's go!
+
+The Office: Michael does an impersonation of the Six Million Dollar Man to Pam (S01E01).
 
 ## S06E10
 
-Friends: Ross and Monica, at the Dick Clark's Rocking Eve, dance their butts off.
-The Office: Micheal, at the Booze cruise, dance his butt off.
+-Friends: Ross and Monica, at the Dick Clark's Rocking Eve, dance their butts off.
+-The Office: Michael, at the Booze cruise, dance his butt off.
 
 ## S06E15
 
-Friends: Ross mentions if he'd still be doing karate if he and Carol were still maried.
-The Office: Dwight is Senpai, which is Assistant Sensei, and pratice karate at his Dojo.
+Friends: Ross wonders if he'd still be doing karate if he and Carol were still maried. ** look if it was the first time ross mention karate
+The Office: Dwight is Senpai, which is Assistant "to the" Sensei, and pratice karate at a Dojo.
 
 ## S06E21
+
+After meeting Wayne, Joey mentions that he thought that CHEESE was gonna be a really cool
+robot, like the Terminator.
+
+**The Office**
+
+Michael mentions the Terminator and Arnold several times.
+
+---
 
 Friends: In opposition to Phoebe's books characters Marsha and Chester, Monica
 creates Phyllis.
@@ -363,8 +392,15 @@ Friends: Joey doesn't know how a silent auction works and buys a boat.
 The Office: Dwight doesn't know how a silent auction works and bought every
 item search for the real value online.
 
+---
+
 Friends: Mr. Bowmount wife's name is Pam.
-The Office: Pam! Pam!
+
+> You've got the wind in your ha...arms.
+
+The Office: One of the office's emploeeys is Pam.
+
+-------------------------------------------------------------------------
 
 ## S07E05
 
@@ -380,25 +416,25 @@ The Office: Pete has memorized every line of Die Hard, in a bet with his brother
 ## S07E13
 
 Friends: Phoebe takes a side job at telemarketing while his regular massage jobs are down.
-The Office: Micheal takes a side job at telemarketing to support Jan expenses.
+The Office: Michael takes a side job at telemarketing to support Jan's expenses.
 
 ## S07E14
 
 Friends: Chandler gives Rachel a birthday card with a joke about being old.
-The Office: Micheal writes not so good jokes in Meridith's birthday card.
+The Office: Michael writes not so good jokes in Meridith's birthday card.
 
 Friends: Ross play Celebration, by Kool and the gang. ** verificar se é a música: Celebrate good times, came on!
-The Office: Micheal says the lyrics of the song while giving his speech at the conference.
+The Office: Michael says the lyrics of the song while giving his speech at the conference.
 
 ## S07E18
 
 Friends: At the end of the episode Phoebe chant: "Live from New York, it's Saturday Night!". ** verificar se é SNL
-The Office: Micheal quotes many episodes from SNL. It's his favorite show.
+The Office: Michael quotes many episodes from SNL. It's his favorite show.
 
 ## S08E02
 
 Friends: Phoebe states to Rachel that she is more than a pretty blond with and ass that won't quit.
-The Office: Holly has the same features, according to Micheal.
+The Office: Holly has the same features, according to Michael.
 
 ## S08E08
 
@@ -417,7 +453,7 @@ The Office: At their sail boat, Andy's brother found a guitar and Andy shout:
 The Office: When Pete appears with a mustache for Movember, he says: "Ok, calm down.
 It's just me, not Tom Seleck".
 
-Friends: Every time his in a difficult situation, Joey runs.
+[ok] Friends: Every time his in a difficult situation, Joey runs.
 The Office: Every time his in a difficult situation, Mose runs.
 
 Friends: Rachel have trouble to put his eye drops.

@@ -10,7 +10,7 @@ Rachel wears a Popeye and Olive Oil t-shirt.
 
 **The Office** [S07E06 - Costume Contest](https://theoffice.fandom.com/wiki/Costume_Contest)
 
-Jim and Pam wears a Popeye and Olive Oil costume for Halloween.
+Jim and Pam wear a Popeye and Olive Oil costume for Halloween.
 
 ![S07E06-01](./img/office/S07E06-01.png)
 
@@ -26,7 +26,7 @@ Phoebe calls his stalker J-crew guy.
 
 **The Office** [S06E01 - Gossip](https://theoffice.fandom.com/wiki/Gossip)
 
-Micheal spread a gossip that one of his employees is a J-crew model.
+Michael spreads a gossip that one of his employees is a J-crew model.
 
 ![S06E01-02](./img/office/S06E01-02.png)
 
@@ -38,7 +38,7 @@ Monica suddenly has the idea of having a baby after his "jam plan".
 
 **The Office** [S03E02 - The Convention](https://theoffice.fandom.com/wiki/The_Convention)
 
-Micheal, inspired by Angelina Jolie, asks Pam about adopting a baby.
+Michael, inspired by Angelina Jolie, questions Pam about adopting a baby.
 
 ![S03E02-01](./img/office/S03E02-01.png)
 
@@ -55,7 +55,7 @@ Chandler and Ross talk about space issues at sleeping time.
 **The Office** [S04E01 - Fun Run](https://theoffice.fandom.com/wiki/Fun_Run)
 and [S04E13 - Dinner Party](https://theoffice.fandom.com/wiki/Dinner_Party)
 
-Jan has space issues, and makes Micheal sleeps on a pretty narrow side bed.
+Jan has space issues, and makes Michael sleeps on a pretty narrow side bed.
 
 ![S04E01-01](./img/office/S04E01-01.png)
 
@@ -71,7 +71,7 @@ Monica tells Phoebe about how she and Ross played the shadow game when they were
 
 **The Office** [S05E20 - New Boss](https://theoffice.fandom.com/wiki/New_Boss)
 
-Micheal, in his anger, do the shadow game with Charles Miner, his new boss.
+Michael, in his anger, do the shadow game with Charles Miner, his new boss.
 
 ![S05E20-01](./img/office/S05E20-01.png)
 
@@ -86,6 +86,8 @@ and developed throughout the series
 
 [Toby](https://theoffice.fandom.com/wiki/Toby_Flenderson) has a crush on Pam.
 
+![S03E02-02](./img/office/S03E02-02.png)
+
 ## 12 - The One With All The Jealousy
 
 Joey is supposed to perform a dance in a play that ends with Jazz Hands.
@@ -95,6 +97,8 @@ Joey is supposed to perform a dance in a play that ends with Jazz Hands.
 **The Office** [S07E24 - Dwight K. Schrute, (Acting) Manager](https://theoffice.fandom.com/wiki/Dwight_K._Schrute%2C_(Acting)_Manager)
 
 Jim blackmails Dwight to do Jazz hands to Jo every time he coughs.
+
+![S07E24-01](./img/office/S07E24-01.png)
 
 ---
 
@@ -108,6 +112,10 @@ and [S08E24 - Free Family Portrait Studio](https://theoffice.fandom.com/wiki/Fre
 Every time his in a difficult situation,
 [Mose](https://theoffice.fandom.com/wiki/Mose_Schrute) runs.
 
+![S04E18-19-01](./img/office/S04E18-19-01.png)
+
+![S08E24-01](./img/office/S08E24-01.png)
+
 ## 20 - The One With The Dollhouse
 
 Joana treats Sophie poorly.
@@ -116,4 +124,10 @@ Joana treats Sophie poorly.
 
 **The Office** Throughout the series
 
-Micheal treats Toby even more poorly.
+Michael treats Toby even more poorly.
+
+> NOOOO! GOD! No, God, please no! No! No! NOOO!
+
+![S05E09-01](./img/office/S05E09-01.png)
+
+Classic scene from [S05E09 - Frame Toby](https://theoffice.fandom.com/wiki/Frame_Toby).

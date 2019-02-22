@@ -14,8 +14,8 @@ a great David Hasselholff impression.
 **The Office** [S02E15 - Boys and Girls](https://theoffice.fandom.com/wiki/Boys_and_Girls)
 
 [Lonny](https://theoffice.fandom.com/wiki/Lonny_Collins) insults
-[Micheal](https://theoffice.fandom.com/wiki/Michael_Scott) calling him Hasselholff,
-because he unbutton his shirt and shows his hairy chest.
+[Michael](https://theoffice.fandom.com/wiki/Michael_Scott) calling him Hasselholff,
+because he unbuttons his shirt and shows his hairy chest.
 
 ![S02E15-01](./img/office/S02E15-01.png)
 
@@ -37,10 +37,13 @@ Chandler has a boxing lizard puppet at his desk.
 ![S01E03-04](./img/friends/S01E03-04.png)
 
 **The Office** [S02E09 - Email Surveillance](https://theoffice.fandom.com/wiki/Email_Surveillance)
+and [S07E06 - Costume Contest](https://theoffice.fandom.com/wiki/Costume_Contest)
 
-Micheal has a boxing cat puppet.
+Michael has a boxing cat puppet.
 
 ![S02E09-01](./img/office/S02E09-01.png)
+
+![S07E06-03](./img/office/S07E06-03.png)
 
 ## 05 - The One With The East German Laundry Detergent
 
@@ -133,7 +136,7 @@ from the movie [...And Justice for All](https://www.imdb.com/title/tt0078718/):
 
 **The Office** [S06E10 - Murder](https://theoffice.fandom.com/wiki/Murder)
 
-While stuck in characters of a game, Micheal and Dwight performs
+While stuck in characters of a game, Michael and Dwight performs
 in a similar way.
 
 > Michael: This is not a game, this is my life. You are out of order, sir.
@@ -205,7 +208,7 @@ Chandler puts a trophy in his desk to impress Nina.
 
 **The Office** [S02E01 - The Dundies](https://theoffice.fandom.com/wiki/The_Dundies)
 
-Micheal hosts the Dundies, where he gives trophies to all his employees,
+Michael hosts the Dundies, where he gives trophies to all his employees,
 including himself.
 
 ![S02E01-03](./img/office/S02E01-03.png)
@@ -218,7 +221,7 @@ Chandler has trouble to fire Nina, and ends up asking her out.
 
 **The Office** [S02E05 - Halloween](https://theoffice.fandom.com/wiki/Halloween)
 
-Micheal has trouble to fire someone from the office. He tries to fire Creed,
+Michael has trouble to fire someone from the office. He tries to fire Creed,
 and ends up firing [Devon](https://theoffice.fandom.com/wiki/Devon_White).
 
 ![S02E05-01](./img/office/S02E05-01.png)
@@ -254,7 +257,7 @@ To alert about Carol's labor time, Ross got a beeper and the dial number is "55-
 
 **The Office** [S03E17 - Cocktails](https://theoffice.fandom.com/wiki/Cocktails)
 
-Micheal sometimes calls Jim by the nickname "Jimbo".
+Michael sometimes calls Jim by the nickname "Jimbo".
 
 ![S03E17-01](./img/office/S03E17-01.png)
 
@@ -267,7 +270,7 @@ thrown by his employees. He goes to the party anyway.
 
 **The Office** [S02E09 - Email Surveillance](https://theoffice.fandom.com/wiki/Email_Surveillance)
 
-Jim throws a barbecue and invite everybody except Micheal, who drop by anyway
+Jim throws a barbecue and invite everybody except Michael, who drop by anyway
 after his Improv Class.
 
 ![S02E09-02](./img/office/S02E09-02.png)
@@ -278,7 +281,7 @@ Chandler sings "Ebony and Ivory" on the Karaoke machine with Tracy, one of his e
 
 **The Office** [S02E09 - Email Surveillance](https://theoffice.fandom.com/wiki/Email_Surveillance)
 
-Micheal crashes at Jim's BBQ party and tries to sing "Islands in the Stream"
+Michael crashes at Jim's BBQ party and tries to sing "Islands in the Stream"
 with every female employee on the Karaoke machine, but ends up singing with Jim.
 
 ![S02E09-03](./img/office/S02E09-03.png)
@@ -292,7 +295,7 @@ a stuff animal and a "Chunky" bar.
 
 **The Office** [S03E16 - Business School](https://theoffice.fandom.com/wiki/Business_School)
 
-At the Art Show, Micheal appears at the last minute and comfort Pam,
+At the Art Show, Michael appears at the last minute and comfort Pam,
 who hugs him and notice something in his pocket. He said it's a "Chunky".
 
 ![S03E16-01](./img/office/S03E16-01.png)

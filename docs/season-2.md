@@ -10,7 +10,7 @@ Stephanie Schiffer, the professional guitar player, plays "Angel of the Morning"
 
 **The Office** [S03E07 - Branch Closing](https://theoffice.fandom.com/wiki/Branch_Closing)
 
-Micheal makes a parody with "Angel of the Morning" with Jan's last name:
+Michael makes a parody with "Angel of the Morning" with Jan's last name:
 "Just call me _Levinson_ in the morning, baby".
 
 ![S03E07-01](./img/office/S03E07-01.png)
@@ -28,9 +28,9 @@ On The Office he plays Hank, the "African-American guy" who "...sits behind the 
 
 > &#9835; Me and the blues. It's me and the blues. &#9835;
 
-Scene from [S05E05 - Crime Aid](https://theoffice.fandom.com/wiki/Crime_Aid).
-
 ![S05E05-01](./img/office/S05E05-01.png)
+
+Scene from [S05E05 - Crime Aid](https://theoffice.fandom.com/wiki/Crime_Aid).
 
 ## 12 - The One After The Superbowl, Part 1
 
@@ -39,7 +39,7 @@ of his boss, as Marcel used to do it.
 
 **The Office** [S02E14 - The Carpet](https://theoffice.fandom.com/wiki/The_Carpet)
 
-Packer left a "package" in the middle of Micheal's office, his boss.
+Packer left a "package" in the middle of Michael's office, his boss.
 
 ![S02E14-01](./img/office/S02E14-01.png)
 
@@ -70,7 +70,7 @@ To cheer up Andy, Jim sings The Lion Sleeps Tonight and is follow up by Andy.
 
 ## 13 - The One After The Superbowl, Part 2
 
-Phoebe succeeded to stop a fight between Rachel and Monica and says:
+Phoebe succeed to stop a fight between Rachel and Monica and says:
 
 > If we were in prison, you guys would be like my bitches.
 
@@ -97,7 +97,7 @@ Ross appears on the screen and Joey says: "Looking good, Mr. Kotter!".
 
 **The Office** [S02E09 - Email Surveillance](https://theoffice.fandom.com/wiki/Email_Surveillance)
 
-To get picked to play in the Improv Class, Micheal says:
+To get picked to play in the Improv Class, Michael says:
 
 > Uh, uh! Mr. Kotter... Mr. Kotter.
 
@@ -131,7 +131,7 @@ To be more like Richard, Chandler grows a mustache.
 
 **The Office** [S05E01 - Weight Loss](https://theoffice.fandom.com/wiki/Weight_Loss)
 
-Micheal grows a goatee after seeing Ryan with one.
+Michael grows a goatee after seeing Ryan with one.
 
 ![S05E01-01](./img/office/S05E01-01.png)
 
@@ -143,7 +143,7 @@ Monica works at a 50's restaurant, where they play "YMCA" by Village People.
 
 **The Office** [S06E13 - Secret Santa](https://theoffice.fandom.com/wiki/Secret_Santa)
 
-Micheal's debit card pin number is "YMCA" or 9622.
+Michael's debit card pin number is "YMCA" or 9622.
 
 ![S06E13-01](./img/office/S06E13-01.png)
 
@@ -190,7 +190,7 @@ Hank and Nick, the IT guy.
 ## 23 The One With The Chicken Pox
 
 Chandler is eating a muffin and is unable to tell his jokes,
-which could by "That's what she said" jokes.
+which could be "That's what she said" jokes.
 
 ![S02E23-01](./img/friends/S02E23-01.png)
 
@@ -209,6 +209,10 @@ Richard has a "Mallard" t-shirt.
 
 Dwight gives Jim a wooden Mallard with a "listening device".
 
+![S06E07-01](./img/office/S06E07-01.png)
+
+![S06E07-02](./img/office/S06E07-02.png)
+
 ---
 
 Chandlers naps at work.
@@ -221,6 +225,12 @@ Chandlers naps at work.
 
 Michael eats a whole family size chicken pot pie, and then fall asleep.
 
+![S05E28-01](./img/office/S05E28-01.png)
+
 Jim and Pam also tried to sleep at work.
 
-In a deleted scene, Creed is shown sleeping at work sometimes, **at night**.
+![S06E25-01](./img/office/S06E25-01.png)
+
+In a deleted scene, Creed is shown sleeping at work sometimes, **at night time**.
+
+![S03E03-01](./img/office/S03E03-01.png)
