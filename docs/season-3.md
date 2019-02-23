@@ -1,5 +1,6 @@
 ---
 prev: ./season-2
+next: ./season-4
 ---
 
 # Season 3

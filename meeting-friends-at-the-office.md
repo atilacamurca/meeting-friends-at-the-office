@@ -309,14 +309,14 @@ After Jim and Pam prank him by hiding his phone, Andy put his fist through a wal
 
 ## S04E20
 
-To cheer up, Rachel wears a weading dress. But Joshua drops by, sees her, freaks out
+To cheer up, Rachel wears a wedding dress. But Joshua drops by, sees her, freaks out
 and left.
 
 > I do...
 
 **The Office** [S03E02 - The Convention](https://theoffice.fandom.com/wiki/The_Convention)
 
-Michael suggests to Pam to wear her weading dress on her date, saying that it's
+Michael suggests to Pam to wear her wedding dress on her date, saying that it's
 going to be hilarious.
 
 ## S04E21
@@ -423,6 +423,8 @@ The Office: Michael takes a side job at telemarketing to support Jan's expenses.
 Friends: Chandler gives Rachel a birthday card with a joke about being old.
 The Office: Michael writes not so good jokes in Meridith's birthday card.
 
+## S07E15
+
 Friends: Ross play Celebration, by Kool and the gang. ** verificar se é a música: Celebrate good times, came on!
 The Office: Michael says the lyrics of the song while giving his speech at the conference.
 
@@ -430,6 +432,8 @@ The Office: Michael says the lyrics of the song while giving his speech at the c
 
 Friends: At the end of the episode Phoebe chant: "Live from New York, it's Saturday Night!". ** verificar se é SNL
 The Office: Michael quotes many episodes from SNL. It's his favorite show.
+
+-------------------------------------------------------------------------
 
 ## S08E02
 
@@ -439,6 +443,16 @@ The Office: Holly has the same features, according to Michael.
 ## S08E08
 
 Friends: Jackie Debatin features as a stripper/hooker in both shows, with the same name, Elisabeth.
+
+## S08E10
+
+Phoebe makes a parody of the song "Roxanne" by The Police.
+
+> Ross can!
+
+**The Office** [S03E16 - Phyllis' Wedding]()
+
+Kevin band, Scrantonicity, plays "Roxanne" at Phillys's weading.
 
 -------------------------------------------------------------------------
 
