@@ -1,3 +1,7 @@
+---
+prev: ./season-2
+---
+
 # Season 3
 
 The third season of Friends aired from September 16, 1996 to May 15, 1997.

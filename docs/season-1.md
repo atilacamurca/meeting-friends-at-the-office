@@ -1,3 +1,8 @@
+---
+prev: /
+next: ./season-2
+---
+
 # Season 1
 
 Season 1 of Friends aired from September 22, 1994 to May 18, 1995 on NBC in the US.
@@ -53,21 +58,21 @@ Ross mentions his Snuggles fabric softener to Chandler before his "date" with Ra
 
 **The Office** [S02E19 - Michael's Birthday](https://theoffice.fandom.com/wiki/Michael%27s_Birthday)
 
-Jim, while picking up presents to Kevin with Pam, put fabric softener
+Jim, while picking up presents to Kevin with Pam, puts fabric softener
 in his cart, to Pam's surprise.
 
 ![S02E19-01](./img/office/S02E19-01.png)
 
 ---
 
-Rachel left a red sock in an all whites laundry machine and all her clothes
+Rachel lefts a red sock in an all whites laundry machine and all her clothes
 turn to pink.
 
 ![S01E05-02](./img/friends/S01E05-02.png)
 
 **The Office** [S05E04 - Baby Shower](https://theoffice.fandom.com/wiki/Baby_Shower)
 
-Pam left a lipstick in her laundry machine and stain a towel.
+Pam lefts a lipstick in her laundry machine and stain a towel.
 
 ![S05E04-01](./img/office/S05E04-01.png)
 
@@ -113,13 +118,13 @@ Andy performs in a musical play called "Sweeney Todd".
 
 ---
 
-Phoebe read Monica's hand.
+Phoebe reads Monica's hand.
 
 ![S01E06-02](./img/friends/S01E06-02.png)
 
 **The Office** [S02E06 - The Fight](https://theoffice.fandom.com/wiki/The_Fight)
 
-Pam read Jim's hand using instructions from a website.
+Pam reads Jim's hand using instructions from a website.
 
 ![S02E06-01](./img/office/S02E06-01.png)
 
@@ -136,7 +141,7 @@ from the movie [...And Justice for All](https://www.imdb.com/title/tt0078718/):
 
 **The Office** [S06E10 - Murder](https://theoffice.fandom.com/wiki/Murder)
 
-While stuck in characters of a game, Michael and Dwight performs
+While stuck in characters of a game, Michael and Dwight perform
 in a similar way.
 
 > Michael: This is not a game, this is my life. You are out of order, sir.
@@ -170,13 +175,13 @@ that this was not the first time.
 ## 11 - The One With Mrs. Bing
 
 To avoid seeing his mother talking about her new book on TV, Chandler
-suggest that the gang watches [Weekend at Bernie's](https://www.imdb.com/title/tt0098627/).
+suggests that the gang watch [Weekend at Bernie's](https://www.imdb.com/title/tt0098627/).
 
 ![S01E11-01](./img/friends/S01E11-01.png)
 
 **The Office** [S03E04 - Grief Counseling](https://theoffice.fandom.com/wiki/Grief_Counseling)
 
-Kevin tells the plot of "Weekend at Bernie's" in a Grief Counseling.
+Kevin tells the plot of "Weekend at Bernie's" in a grief counseling.
 
 ![S03E04-01](./img/office/S03E04-01.png)
 
@@ -191,7 +196,7 @@ This is recurrent in both shows.
 
 ## 15 - The One With The Stoned Guy
 
-Chandler says to Mrs. Tedlock that he has nothing to do with pranks in the office,
+Chandler says to Mrs. Tedlock that he has nothing to do with the pranks in the office,
 although his toys shows the opposite.
 
 ![S01E15-01](./img/friends/S01E15-01.png)
@@ -235,13 +240,12 @@ In a attempt to put Marcel into a Zoo, Ross mentions it didn't get into Scranton
 ![S01E21-01](./img/friends/S01E21-01.png)
 
 **The Office** [S08E15 - Tallahassee](https://theoffice.fandom.com/wiki/Tallahassee)
+and [S06E26 - Whistleblower](https://theoffice.fandom.com/wiki/Whistleblower)
 
 Daryl mentions a field trip to the zoo (not sure it's the Scranton Zoo),
-and hook up with a girl.
+where he hooked up with a girl.
 
 ![S08E15-01](./img/office/S08E15-01.png)
-
-**The Office** [S06E26 - Whistleblower](https://theoffice.fandom.com/wiki/Whistleblower)
 
 Michael wants to keep a local newsclip featuring himself as the most viewed
 video and enlists the office to watch it 11 times each.
@@ -251,7 +255,7 @@ The office instead gets distracted by a video of a baby otter at the Scranton Zo
 
 ## 22 - The One With The Ick Factor
 
-To alert about Carol's labor time, Ross got a beeper and the dial number is "55-JIMBO".
+To alert about Carol's labor time, Ross gets a beeper and the dial number is "55-JIMBO".
 
 ![S01E22-01](./img/friends/S01E22-01.png)
 
@@ -288,14 +292,14 @@ with every female employee on the Karaoke machine, but ends up singing with Jim.
 
 ## 23 - The One With The Birth
 
-On their way to the hospital, Susan and Carol stop by the gift shop to by
+On their way to the hospital, Susan and Carol stop by the gift shop to buy
 a stuff animal and a "Chunky" bar.
 
 ![S01E23-01](./img/friends/S01E23-01.png)
 
 **The Office** [S03E16 - Business School](https://theoffice.fandom.com/wiki/Business_School)
 
-At the Art Show, Michael appears at the last minute and comfort Pam,
+At the Art Show, Michael appears at the last minute and comforts Pam,
 who hugs him and notice something in his pocket. He said it's a "Chunky".
 
 ![S03E16-01](./img/office/S03E16-01.png)

@@ -1,3 +1,8 @@
+---
+prev: ./season-1
+next: ./season-3
+---
+
 # Season 2
 
 The second season of Friends aired from September 21, 1995 to May 16, 1996.
@@ -39,7 +44,7 @@ of his boss, as Marcel used to do it.
 
 **The Office** [S02E14 - The Carpet](https://theoffice.fandom.com/wiki/The_Carpet)
 
-Packer left a "package" in the middle of Michael's office, his boss.
+Packer lefts a "package" in the middle of Michael's office, his boss.
 
 ![S02E14-01](./img/office/S02E14-01.png)
 
