@@ -80,7 +80,7 @@ The Office: Daryl mentions a Zoo in Scranton. **check if it's the same.
 ## S01E22
 
 Friends: To alert about Carol's labor time, Ross got a beeper and the dial number is 55-JIMBO.
-The Office: Michael sometimes calls Jim by the name **apelido "Jimbo".
+The Office: Michael sometimes calls Jim by the name **apelido "Jimbo". 
 
 Friends: Chandler, that recently becomes a boss, it's not inveted to a party
 throw by his employees. He goes to the party anyway.
@@ -298,6 +298,8 @@ a porn movie.
 The Office: After Jim closes a sale, he meets Pam at the office and kisses her
 in front of Andy and Kevin, which sings a similar song.
 
+S03E15 Michael sings "Bow-chicka-bow".
+
 ---
 
 Friends: After saying to Emily that he loves her and she doesn't say it back, Ross
@@ -309,14 +311,14 @@ After Jim and Pam prank him by hiding his phone, Andy put his fist through a wal
 
 ## S04E20
 
-To cheer up, Rachel wears a wedding dress. But Joshua drops by, sees her, freaks out
+To cheer up, Rachel wears a weading dress. But Joshua drops by, sees her, freaks out
 and left.
 
 > I do...
 
 **The Office** [S03E02 - The Convention](https://theoffice.fandom.com/wiki/The_Convention)
 
-Michael suggests to Pam to wear her wedding dress on her date, saying that it's
+Michael suggests to Pam to wear her weading dress on her date, saying that it's
 going to be hilarious.
 
 ## S04E21
@@ -327,7 +329,8 @@ The Office: Pete tells Erin that he decorates every line of Die Hard.
 This is recurrent in both shows:
 
 - Ross, Joey and Chandler watch Die Hard at Ross's place.
-- Michael compares Die Hard and Die Hard 4 with his coworkers at his Marketing job.
+- Michael compares Die Hard and Die Hard 4 with his coworkers at his Marketing job ([S04E04 - Money](https://theoffice.fandom.com/wiki/Money)).
+- **Checkout lines [S03E01 - Gay Wich Hunt]()
 
 ## S04E24
 
@@ -453,6 +456,46 @@ Phoebe makes a parody of the song "Roxanne" by The Police.
 **The Office** [S03E16 - Phyllis' Wedding]()
 
 Kevin band, Scrantonicity, plays "Roxanne" at Phillys's weading.
+
+## S08E12
+
+Joey and Rachel discuss about movies, and Rachel mentions Citizen Kane.
+
+**The Office** [Nepotism]()
+
+Michael's nephew talks about his movie preferences and mentions Citizen Kane.
+
+## S08E13
+
+Joey is thinking about his feelings for Rachel after their date, and tells himself
+that he is fine, or as his friend "Tony" says:
+
+> Great!
+
+**The Office**
+
+Michael does a parody of Tony The Tiger to Jim with his grape soda.
+
+> It's gra...pe soda!
+
+---
+
+Ross and Rachel are suggesting names to theis baby, and Rachel suggests the name Rain
+for a girl.
+
+**The Office**
+
+Dwight is played by Rainn Wilson. His name has 2 "n" but it's close.
+
+## S08E20
+
+Joey is reharsing for his new game show with Chandler and Ross, and one of the questions
+is: "Who invented bifocals?", and the answer is "Ben Franklin".
+
+**The Office** [S03E15 - Ben Franklin]()
+
+A guy dress as Ben Franklin goes to Phillys' bachaeloret party. Later, Dwight thinks
+he is the real Ben Franklin. To be sure he asks questions such as "Who invented bifocals?".
 
 -------------------------------------------------------------------------
 

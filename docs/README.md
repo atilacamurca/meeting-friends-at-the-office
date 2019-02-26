@@ -25,6 +25,7 @@ similarities with The Office.
 - [Season 1](./season-1.md)
 - [Season 2](./season-2.md)
 - [Season 3](./season-3.md)
+- [Season 4](./season-4.md)
 
 # References
 
