@@ -1,6 +1,6 @@
 ---
 prev: ./season-5
-#next: ./season-7
+next: ./season-7
 ---
 
 # Season 6
@@ -35,6 +35,8 @@ similar to the one Michael makes.
 
 Ross wonders if he'd still be doing karate if he and Carol were still married.
 
+![S06E15-01](./img/friends/S06E15-01.png)
+
 **The Office** [S02E06 - The Fight](https://theoffice.fandom.com/wiki/The_Fight)
 
 Dwight is Senpai, which is Assistant "to the" Sensei, and practices Goju-Ryu karate.
@@ -52,7 +54,9 @@ be a really cool robot, like the Terminator.
 [S03E05 - Initiation](https://theoffice.fandom.com/wiki/Initiation)
 and [S03E23 - The Job](https://theoffice.fandom.com/wiki/The_Job)
 
-The movie [Terminator](https://www.imdb.com/title/tt0088247/?ref_=nv_sr_3) is mentioned several times.
+The movies [Terminator](https://www.imdb.com/title/tt0088247/?ref_=nv_sr_3)
+and [Terminator 2](https://www.imdb.com/title/tt0103064/?ref_=nv_sr_1)
+are mentioned several times.
 
 > Check it out. Terminator.
 

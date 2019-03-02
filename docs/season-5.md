@@ -16,10 +16,12 @@ Chandler asks if is that is what Ross learned at the anger management class.
 
 ![S05E12-02](./img/friends/S05E12-02.png)
 
-**The Office** [S03E13 - The Return](https://theoffice.fandom.com/wiki/The_Return)
+**The Office** [S03E14 - The Return](https://theoffice.fandom.com/wiki/The_Return)
 
 Jim and Pam pranked Andy and he freak out and punch a wall. After
-that he goes to a management anger class.
+that he goes to an anger management class.
+
+![S03E14-04](./img/office/S03E14-04.png)
 
 ## 20 - The One With The Ride-Along
 

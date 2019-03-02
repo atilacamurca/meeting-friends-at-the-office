@@ -80,7 +80,7 @@ The Office: Daryl mentions a Zoo in Scranton. **check if it's the same.
 ## S01E22
 
 Friends: To alert about Carol's labor time, Ross got a beeper and the dial number is 55-JIMBO.
-The Office: Michael sometimes calls Jim by the name **apelido "Jimbo". 
+The Office: Michael sometimes calls Jim by the name **apelido "Jimbo".
 
 Friends: Chandler, that recently becomes a boss, it's not inveted to a party
 throw by his employees. He goes to the party anyway.
@@ -267,7 +267,7 @@ The Office: Michaels makes the office watch Varsity Blues every monday.
 ## S04E06
 
 Friends: Joey shops for Kath's birthday at Office Max.
-The Office: Office Max is competitor to Dundler Mifflin.
+The Office: Office Max is competitor to Dunder Mifflin.
 
 Friends: Phoebe claims she's a hard ass after successfuly catering a funeral.
 The Office: Andy wears a Hard Ass hat.
@@ -282,8 +282,8 @@ The Office: Andy asks Jim "Are you ready to party?" in a similar tone.
 
 Friends: Chandler tells Monica a story of a Director, Orlson Wells, that hires
 someone just to be fired in front of everyone, to shows who's boss.
-The Office: Dwight suggests to Michael to fire Tony on his first day at Dundler
-Mifflin Scranton.
+The Office: Dwight suggests to Michael to fire Tony on his first day at
+Dunder Mifflin Scranton.
 
 ## S04E16
 
@@ -472,11 +472,13 @@ that he is fine, or as his friend "Tony" says:
 
 > Great!
 
-**The Office**
+**The Office** [The Secret]() and [S03E23 - The Job]
 
 Michael does a parody of Tony The Tiger to Jim with his grape soda.
 
 > It's gra...pe soda!
+
+> Great!
 
 ---
 
@@ -499,6 +501,32 @@ he is the real Ben Franklin. To be sure he asks questions such as "Who invented 
 
 -------------------------------------------------------------------------
 
+## S09E01
+
+Rachel has trouble with breast feeding.
+
+**The Office**
+
+The same happens with Pam.
+
+## S09E04
+
+Ross lies to Mike about a super serious relationship she had with Vikram.
+
+**The Office**
+
+Michael knows a guy name Vikram at his work at his Telemarketing job.
+
+## S09E06
+
+Sandy, the male nany, plays Green Sleeves on his recorder.
+
+**The Office** [Take Your Daughter to Work Day]()
+
+Dwight plays Green Sleeves on his recorder to the kids in the conference room.
+
+-------------------------------------------------------------------------
+
 # Remember to put...
 
 
@@ -515,3 +543,8 @@ The Office: Every time his in a difficult situation, Mose runs.
 
 Friends: Rachel have trouble to put his eye drops.
 The Office: Andy is having trouble with his "movie" because he has to squirt water in his eyes.
+
+Friends [S04E10 - The One With The Girl From Poughkeepsie]: Ross meets a girl in Poughkeepsie.
+The Office [S07E13 - Ultimatum]: Erin asks Michael about tickets to a consert in Poughkeepsie.
+
+

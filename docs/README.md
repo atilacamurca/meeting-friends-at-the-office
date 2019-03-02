@@ -28,6 +28,8 @@ similarities with The Office.
 - [Season 4](./season-4.md)
 - [Season 5](./season-5.md)
 - [Season 6](./season-6.md)
+- [Season 7](./season-7.md)
+- [Season 8](./season-8.md)
 
 # References
 

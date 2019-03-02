@@ -57,7 +57,7 @@ Joey shops for Kathy's birthday at Officemax.
 
 **The Office** [S03E16 - Business School](https://theoffice.fandom.com/wiki/Business_School)
 
-Officemax is a competitor to Dundler Mifflin.
+Officemax is a competitor to Dunder Mifflin.
 
 ![S03E16-02](./img/office/S03E16-02.png)
 
@@ -97,7 +97,7 @@ someone just to be fired in front of everyone, to shows who's boss.
 **The Office** [S03E08 - The Merger](https://theoffice.fandom.com/wiki/The_Merger)
 
 Dwight suggests to Michael to fire [Tony](https://theoffice.fandom.com/wiki/Tony_Gardner)
-on his first day at Dundler Mifflin Scranton branch.
+on his first day at Dunder Mifflin Scranton branch.
 
 > ...to consolidate power.
 
