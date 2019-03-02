@@ -1,3 +1,8 @@
+---
+prev: ./season-3
+next: ./season-5
+---
+
 # Season 4
 
 The fourth season of Friends aired from September 25, 1997 and ended on May 7, 1998.
@@ -188,7 +193,7 @@ This is recurrent in both shows:
 
 - Michael calls Oscar "faggie" for liking the movie Shakespeare in Love more than Die Hard ([S03E01 - Gay Witch Hunt](https://theoffice.fandom.com/wiki/Gay_Witch_Hunt)).
 
-- It appears on one verse of the goodbye music to Michael.
+- It appears on one verse of the goodbye music to Michael ([S07E21 - Michael's Last Dundies](https://theoffice.fandom.com/wiki/Michael's_Last_Dundies)).
 
 > Nine million, nine hundred eighty six thousand minutes!
 > That's like watching Die Hard, eighty thousand times!
