@@ -267,7 +267,7 @@ The Office: Michaels makes the office watch Varsity Blues every monday.
 ## S04E06
 
 Friends: Joey shops for Kath's birthday at Office Max.
-The Office: Office Max is competitor to Dunder Mifflin.
+The Office: Office Max is competitor to Dundler Mifflin.
 
 Friends: Phoebe claims she's a hard ass after successfuly catering a funeral.
 The Office: Andy wears a Hard Ass hat.
@@ -282,8 +282,8 @@ The Office: Andy asks Jim "Are you ready to party?" in a similar tone.
 
 Friends: Chandler tells Monica a story of a Director, Orlson Wells, that hires
 someone just to be fired in front of everyone, to shows who's boss.
-The Office: Dwight suggests to Michael to fire Tony on his first day at
-Dunder Mifflin Scranton.
+The Office: Dwight suggests to Michael to fire Tony on his first day at Dundler
+Mifflin Scranton.
 
 ## S04E16
 
@@ -515,7 +515,7 @@ Ross lies to Mike about a super serious relationship she had with Vikram.
 
 **The Office**
 
-Michael knows a guy name Vikram at his work at his Telemarketing job.
+Michael knows a guy name Vikram at his second job in Telemarketing.
 
 ## S09E06
 
@@ -525,12 +525,147 @@ Sandy, the male nany, plays Green Sleeves on his recorder.
 
 Dwight plays Green Sleeves on his recorder to the kids in the conference room.
 
+## S09E11
+
+Gavin mentions Sandals Paradise Island to Rachel. **check if it's the same of Sandals Jamaica.
+
+**The Office**
+
+Michael invites Carol to Sandals Jamaica and ends up going with Jan.
+
+## S09E14
+
+Chandler plays with Emma and simulates going downstairs by crouching.
+
+**The Office**
+
+Michael does the same at the office, simulating going downstairs to the warehouse.
+
+## S09E15
+
+Chandler: "I know I'm a little older than you guys, but it's not like I'm Bob Hope."
+
+**The Office** [The Dundies]()
+
+Michael mentions Bob Hope. **checkout more references.
+
+## S09E16
+
+Chandler wears a t-shirt that says Jimbo's.
+
+**The Office**
+
+This was already stated here.
+
+## S09E20
+
+Ross meets Charlie and he's supposed to also meet Prof Spafford from Cornell.
+
+**The Office**
+
+Andy is graduated at the Cornell University.
+
+## S09E23-24
+
+Jarvis is also from Cornell.
+
+---
+
+Monica and Mike play ping-pong at the hotel where Ross is giving a keynote speak.
+
+**The Office**
+
+The warehouse gets a ping-pong table and Jim and Daryl struggles to see who's best.
+
+When Jim starts to loose a lot to Daryl Pam sets a table at the conference room.
+
+---
+
+Mike is wearing a polo shirt with a "penguin".
+
+**The Office** [The Merger]()
+
+In a deleted scene, Andy is mocked by Kevin that call him the penguin
+and he is wearing a shirt of the same brand.
+
+-------------------------------------------------------------------------
+
+## S10E01
+
+Precious is dumped by Mike, with Phoebe's help, on her Birthday.
+
+**The Office**
+
+Michael dumps Helene, Pam's mom, also on her Birthday.
+
+---
+
+Monica got stuck with the cornrows while dancing around and singing "No woman, no cry".
+
+**The Office**
+
+The music is also referenced by Erin.
+
+## S10E09
+
+Ross tries a hat to look good on his date.
+
+**The Office**
+
+Michael wears a similar hat when he discovers he is on a date with Pam's friend.
+
+---
+
+Ross ends up wearing the same shirt as his date.
+
+**The Office**
+
+Michael "accidentally cross dress" on the day that Daryl is asking for a raise.
+
+## S10E11
+
+Ross and Chandler asks Missy to checkout their band called Way/No Way. When she
+says "No way" they reply "Way!".
+
+**The Office**
+
+At the sail boat, Andy's brother found a guitar and Andy shout:
+"No way!", and his brother replies "Way!".
+
+---
+
+After Missy agrees to go see Ross and Chandler's band, Ross says:
+
+> Boss.
+
+That was **1987**.
+
+---
+
+**The Office**
+
+Michael explains that the expression "Boss" means something cool.
+
+## S10E12
+
+Phoebe and Mike gets married by the sound of steel drums.
+
+**The Office**
+
+Michael bought steel drums in his vacation to Jamaica.
+
+Andy shows his musical talents too.
+
+## S10E14
+
+Craig Robinson plays the Clerk on Friends. He plays Daryl on The Office.
+
 -------------------------------------------------------------------------
 
 # Remember to put...
 
 
-Friends: Ross and Chandler's band is called "Way. No Way".
+[ok] Friends: Ross and Chandler's band is called "Way. No Way".
 The Office: At their sail boat, Andy's brother found a guitar and Andy shout:
 "No way!", and his brother replies "Way!".
 
@@ -545,6 +680,4 @@ Friends: Rachel have trouble to put his eye drops.
 The Office: Andy is having trouble with his "movie" because he has to squirt water in his eyes.
 
 Friends [S04E10 - The One With The Girl From Poughkeepsie]: Ross meets a girl in Poughkeepsie.
-The Office [S07E13 - Ultimatum]: Erin asks Michael about tickets to a consert in Poughkeepsie.
-
-
+The Office [S07E13 - Ultimatum]: Erin asks Michael about tickets to a concert in Poughkeepsie.

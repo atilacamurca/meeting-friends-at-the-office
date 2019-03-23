@@ -129,7 +129,7 @@ and [S04E17 - Job Fair](https://theoffice.fandom.com/wiki/Job_Fair)
 Michael introduces Mr. "Ben Franklin" and state that he's sexy. Then, sings _bow chicka bow_,
 mimicking the style of music associated with pornographic films.
 
-> Bow chicka bow.
+> &#9835; Bow chicka bow. &#9835;
 
 ![S03E14-01](./img/office/S03E14-01.png)
 
@@ -195,8 +195,8 @@ This is recurrent in both shows:
 
 - It appears on one verse of the goodbye music to Michael ([S07E21 - Michael's Last Dundies](https://theoffice.fandom.com/wiki/Michael's_Last_Dundies)).
 
-> Nine million, nine hundred eighty six thousand minutes!
-> That's like watching Die Hard, eighty thousand times!
+> &#9835; Nine million, nine hundred eighty six thousand minutes!
+> That's like watching Die Hard, eighty thousand times! &#9835;
 
 ## 24 - The One With Ross' Wedding, Part 2
 

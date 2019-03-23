@@ -90,7 +90,7 @@ Angela (Martin) eats her nuts like a squirrel and Kevin tries to mock her way of
 
 ---
 
-Rachel kisses Ross in an uncompromised way.
+Rachel kisses Ross for the first time in an uncompromised way.
 
 ![S01E05-04](./img/friends/S01E05-04.png)
 
@@ -136,8 +136,6 @@ from the movie [...And Justice for All](https://www.imdb.com/title/tt0078718/):
 > You are out of order!
 
 ![S01E06-03](./img/friends/S01E06-03.png)
-
----
 
 **The Office** [S06E10 - Murder](https://theoffice.fandom.com/wiki/Murder)
 
@@ -196,8 +194,8 @@ This is recurrent in both shows.
 
 ## 15 - The One With The Stoned Guy
 
-Chandler says to Mrs. Tedlock that he has nothing to do with the pranks in the office,
-although his toys shows the opposite.
+Chandler says to [Mrs. Tedlock](https://friends.fandom.com/wiki/Mrs._Tedlock)
+that he has nothing to do with the pranks in the office, although his toys shows the opposite.
 
 ![S01E15-01](./img/friends/S01E15-01.png)
 
@@ -264,6 +262,10 @@ To alert about Carol's labor time, Ross gets a beeper and the dial number is "55
 Michael sometimes calls Jim by the nickname "Jimbo".
 
 ![S03E17-01](./img/office/S03E17-01.png)
+
+> Jimbo.
+
+![S05E01-02-02](./img/office/S05E01-02-02.png)
 
 ---
 

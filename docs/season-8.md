@@ -1,6 +1,6 @@
 ---
 prev: ./season-7
-#next: ./season-9
+next: ./season-9
 ---
 
 # Season 8
@@ -19,6 +19,8 @@ Holly has the same features, according to Michael.
 
 > And that her butt refuses to quit!
 
+![S05E01-02-03](./img/office/S05E01-02-03.png)
+
 ## 08 - The One With The Stripper
 
 [Jackie Debatin](https://theoffice.fandom.com/wiki/Jackie_Debatin)
@@ -36,7 +38,11 @@ She make several appearances on The Office.
 
 [S04E01-02 - Fun Run](https://theoffice.fandom.com/wiki/Fun_Run)
 
+![S04E01-02-02](./img/office/S04E01-02-02.png)
+
 [S09E24-25 - Finale](https://theoffice.fandom.com/wiki/Finale)
+
+![S09E24-25-01](./img/office/S09E24-25-01.png)
 
 ## 10 - The One With Monica's Boots
 
@@ -63,6 +69,8 @@ Joey and Rachel discuss about movies, and Rachel mentions Citizen Kane.
 
 Michael's nephew Luke talks about his love for cinema and mentions Citizen Kane.
 
+![S07E01-02](./img/office/S07E01-02.png)
+
 ## 13 - The One Where Chandler Takes A Bath
 
 Joey is thinking about his feelings for Rachel after their date, and tells himself
@@ -77,14 +85,20 @@ and [S03E23 - The Job](https://theoffice.fandom.com/wiki/The_Job)
 
 Michael does a parody of Tony The Tiger to Jim with his grape soda.
 
-> It's gra...pe soda!
+> It's graaa...pe soda!
+
+![S02E13-01](./img/office/S02E13-01.png)
 
 Michael says to David that he does not like the name Dunder Mifflin, and tries
 to rename the company name to Paper Great, and says:
 
-> We're Great!
+> We're Greeeat!
 
 ![S03E23-02](./img/office/S03E23-02.png)
+
+This is a reference to Tony The Tiger.
+
+![tony-the-tiger](./img/tony-the-tiger-sq.jpg)
 
 ---
 
@@ -97,7 +111,7 @@ for a girl.
 
 [Dwight](https://theoffice.fandom.com/wiki/Dwight_Schrute)
 is played by [Rainn Wilson](https://theoffice.fandom.com/wiki/Rainn_Wilson).
-His name has 2 "n" but it's close.
+His name has 2 "n" but it's close enough.
 
 ![Dwight Schrute](./img/office/Dwight_Schrute.jpg)
 

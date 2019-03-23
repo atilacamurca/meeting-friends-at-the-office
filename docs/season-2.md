@@ -15,7 +15,7 @@ Stephanie Schiffer, the professional guitar player, plays "Angel of the Morning"
 
 **The Office** [S03E07 - Branch Closing](https://theoffice.fandom.com/wiki/Branch_Closing)
 
-Michael makes a parody with "Angel of the Morning" with Jan's last name:
+Michael makes a parody of "Angel of the Morning" with Jan's last name:
 "Just call me _Levinson_ in the morning, baby".
 
 ![S03E07-01](./img/office/S03E07-01.png)
@@ -75,7 +75,7 @@ To cheer up Andy, Jim sings The Lion Sleeps Tonight and is follow up by Andy.
 
 ## 13 - The One After The Superbowl, Part 2
 
-Phoebe succeed to stop a fight between Rachel and Monica and says:
+Phoebe succeeds to stop a fight between Rachel and Monica and says:
 
 > If we were in prison, you guys would be like my bitches.
 
@@ -138,7 +138,7 @@ To be more like Richard, Chandler grows a mustache.
 
 Michael grows a goatee after seeing Ryan with one.
 
-![S05E01-01](./img/office/S05E01-01.png)
+![S05E01-02-01](./img/office/S05E01-02-01.png)
 
 ## 21 - The One With The Bullies
 
@@ -196,6 +196,8 @@ Hank and Nick, the IT guy.
 
 Chandler is eating a muffin and is unable to tell his jokes,
 which could be "That's what she said" jokes.
+
+> That'll teach you to lick my muffin.
 
 ![S02E23-01](./img/friends/S02E23-01.png)
 
